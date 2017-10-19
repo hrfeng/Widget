@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2893BD</color>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <color name="colorPrimaryDark">#2893BD</color>
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_2893BD">#2893BD</color>
+    <color name="color_5B9BD5">#5B9BD5</color>
+    <color name="color_FFFFFF">#FFFFFF</color>
+    <color name="color_000000">#000000</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_555555">#555555</color>
+    <color name="color_C9C9C9">#C9C9C9</color>
+    <color name="color_F2F2F2">#F2F2F2</color>
+    <color name="color_008000">#008000</color>
+    <color name="color_CCCCCC">#CCCCCC</color>
+    <color name="color_F0F6F8">#F0F6F8</color>
+    <color name="color_CFF0F5">#CFF0F5</color>
+    <color name="color_15000000">#15000000</color>
+    <color name="color_FF14692B">#FF14692B</color>
+    <color name="color_F6F6F6">#F6F6F6</color>
+    <color name="color_F5F5F5">#F5F5F5</color>
+    <color name="color_BBBBFF">#BBBBFF</color>
+    <color name="color_F7CED8F">#F7CED8</color>
+    <color name="color_FF0000">#FF0000</color>
+    <color name="color_88FF0000">#88FF0000</color>
+    <color name="color_902893BD">#902893BD</color>
+    <color name="color_fdcf00">#fdcf00</color>
+    <color name="color_9a9a9a">#9a9a9a</color>
+    <color name="eeeeee">#eeeeee</color>
+    <color name="color_FFFF21">#FFFF21</color>
+    <color name="color_c3e4f0">#c3e4f0</color>
+    <color name="color_BCBFC3">#BCBFC3</color>
+    <color name="color_8E8396">#8E8396</color>
+    <color name="color_00000000">#00000000</color>
+    <color name="color_56ADCF">#56ADCF</color>
+    <color name="color_189853">#189853</color>
+    <color name="color_9d5e21">#9d5e21</color>
+    <color name="color_6f1121">#6f1121</color>
+    <color name="color_0e0f0f">#0e0f0f</color>
+    <color name="color_6F1121">#6F1121</color>
+    <color name="color_9D5E21">#9D5E21</color>
+</resources>
